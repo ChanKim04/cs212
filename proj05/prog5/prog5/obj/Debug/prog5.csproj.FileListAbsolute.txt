@@ -1,0 +1,6 @@
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj05\prog5\prog5\obj\Debug\prog5.csprojResolveAssemblyReference.cache
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj05\prog5\prog5\bin\Debug\prog5.exe.config
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj05\prog5\prog5\bin\Debug\prog5.exe
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj05\prog5\prog5\bin\Debug\prog5.pdb
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj05\prog5\prog5\obj\Debug\prog5.exe
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj05\prog5\prog5\obj\Debug\prog5.pdb

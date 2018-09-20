@@ -1,0 +1,13 @@
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj02\proj02\proj02\obj\Debug\proj02.csprojResolveAssemblyReference.cache
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj02\proj02\proj02\obj\Debug\MainWindow.baml
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj02\proj02\proj02\obj\Debug\MainWindow.g.cs
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj02\proj02\proj02\obj\Debug\App.g.cs
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj02\proj02\proj02\obj\Debug\proj02_MarkupCompile.cache
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj02\proj02\proj02\obj\Debug\proj02.g.resources
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj02\proj02\proj02\obj\Debug\proj02.Properties.Resources.resources
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj02\proj02\proj02\obj\Debug\proj02.csproj.GenerateResource.Cache
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj02\proj02\proj02\bin\Debug\proj02.exe.config
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj02\proj02\proj02\bin\Debug\proj02.exe
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj02\proj02\proj02\bin\Debug\proj02.pdb
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj02\proj02\proj02\obj\Debug\proj02.exe
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj02\proj02\proj02\obj\Debug\proj02.pdb

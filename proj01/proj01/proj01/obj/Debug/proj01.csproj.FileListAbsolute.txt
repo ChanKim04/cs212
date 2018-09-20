@@ -1,0 +1,6 @@
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj01\proj01\proj01\bin\Debug\proj01.exe.config
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj01\proj01\proj01\bin\Debug\proj01.exe
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj01\proj01\proj01\bin\Debug\proj01.pdb
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj01\proj01\proj01\obj\Debug\proj01.csprojResolveAssemblyReference.cache
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj01\proj01\proj01\obj\Debug\proj01.exe
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj01\proj01\proj01\obj\Debug\proj01.pdb

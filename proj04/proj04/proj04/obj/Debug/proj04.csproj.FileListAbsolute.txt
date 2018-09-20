@@ -1,0 +1,6 @@
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj04\proj04\proj04\bin\Debug\proj04.exe.config
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj04\proj04\proj04\bin\Debug\proj04.exe
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj04\proj04\proj04\bin\Debug\proj04.pdb
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj04\proj04\proj04\obj\Debug\proj04.csprojResolveAssemblyReference.cache
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj04\proj04\proj04\obj\Debug\proj04.exe
+C:\Users\Chan Kim\Documents\Visual Studio 2017\Projects\CS 212A\proj04\proj04\proj04\obj\Debug\proj04.pdb
